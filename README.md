@@ -18,9 +18,8 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/your-leetcode"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="mailto:divyanshuraj23102005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/divyanshu-raj-37017a306"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 ---
@@ -80,9 +79,9 @@ const divyanshu = {
 
 | Project | Description | Stack | Links |
 |--------|-------------|-------|-------|
-| 🔥 **DevTinder** | Tinder-style developer networking app with JWT auth & connection requests | MERN | [Live](https://your-link) · [Code](https://github.com/your-username/devtinder) |
-| 🅿️ **ParkSmart** | Full-stack smart parking with real-time slot allocation & vehicle tracking | MERN | [Live](https://your-link) · [Code](https://github.com/your-username/parksmart) |
-| 💊 **MediQuick** | Quick-commerce pharmacy backend with real-time inventory & order APIs | Node · Express · MongoDB | [Live](https://your-link) · [Code](https://github.com/your-username/mediquick) |
+| 🔥 **DevTinder** | Tinder-style developer networking app with JWT auth & connection requests | MERN | [Live](https://your-link) · [Code](https://github.com/divyanshuraj1095/devtinder) |
+| 🅿️ **ParkSmart** | Full-stack smart parking with real-time slot allocation & vehicle tracking | MERN | [Live](https://your-link) · [Code](https://github.com/divyanshuraj1095/parksmart) |
+| 💊 **MediQuick** | Quick-commerce pharmacy backend with real-time inventory & order APIs | Node · Express · MongoDB | [Live](https://your-link) · [Code](https://github.com/divyanshuraj1095/mediquick) |
 
 </div>
 
@@ -91,12 +90,12 @@ const divyanshu = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=divyanshuraj1095&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshuraj1095&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshuraj1095&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -114,13 +113,13 @@ const divyanshu = {
 ## 📈 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshuraj1095&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=00d9ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=divyanshuraj1095&label=Profile+Views&color=00d9ff&style=for-the-badge" />
   
   <br/><br/>
   
